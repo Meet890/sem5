@@ -1,0 +1,13 @@
+
+  body {
+    display: flex;
+    background-image: url('img/body/simon-berger-twukN12EN7c-unsplash.jpg');
+    background-repeat: no-repeat;
+    background-position:100%;
+    background-size:auto,cover;
+    background-position:top;
+    background-position-x:  -20px;
+    
+    min-height: 100vh;
+  }
+  
