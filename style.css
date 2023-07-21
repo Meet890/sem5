@@ -8,11 +8,11 @@ body {
 }
 
 html {
-    background-color: #eaf0f2;
+    background-color: #light red;
 }
 
 header {
-    text-align: center;
+    text-align: left;
     padding-top: 100px;
     margin-bottom: 300px;
     font-size: 35px;
@@ -29,7 +29,7 @@ header span {
 /* The footer is fixed to the bottom of the page */
 
 footer {
-    position: fixed;
+    position: left;
     bottom: 0;
 }
 
@@ -43,7 +43,7 @@ footer {
 }
 
 .footer-distributed {
-    background-color: #2d2a30;
+    background-color: #D4A59A;
     box-sizing: border-box;
     width: 100%;
     text-align: left;
@@ -99,6 +99,8 @@ footer {
 
 .footer-distributed .footer-center {
     width: 35%;
+	
+	
 }
 
 .footer-distributed .footer-center i {
@@ -112,11 +114,14 @@ footer {
     line-height: 42px;
     margin: 10px 15px;
     vertical-align: middle;
+	
 }
 
 .footer-distributed .footer-center i.fa-envelope {
     font-size: 17px;
     line-height: 38px;
+	
+	
 }
 
 .footer-distributed .footer-center p {
@@ -124,6 +129,7 @@ footer {
     color: #ffffff;
     vertical-align: middle;
     margin: 0;
+	
 }
 
 .footer-distributed .footer-center p span {
@@ -134,7 +140,7 @@ footer {
 }
 
 .footer-distributed .footer-center p a {
-    color: #e0ac1c;
+    color: white;
     text-decoration: none;
     ;
 }
@@ -147,7 +153,7 @@ footer {
 
 .footer-distributed .footer-company-about {
     line-height: 20px;
-    color: #92999f;
+    color: black;
     font-size: 13px;
     font-weight: normal;
     margin: 0;
