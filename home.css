@@ -243,6 +243,7 @@ body {
 }
 
 .container .card .content h2 {
+  margin-bottom: 30px;
   font-size: 1.5rem;
   font-weight: 700;
   color: var(--nav-color);
