@@ -40,7 +40,10 @@ nav .nav-bar .logo a{
   color: var(--text-color);
   text-decoration: none;
 }
-
+nav .nav-bar .logo  img{
+  width: 110px;
+  height: 60px;
+}
 .nav-bar .nav-links{
   display: flex;
   align-items:end;
@@ -249,7 +252,7 @@ body {
   color: var(--nav-color);
 }
 
-.container .card .content p {
+.container .card .content p { 
   position: sticky;
   margin: 5px auto;
   color: #333;
